@@ -1,0 +1,11 @@
+{
+    "token": "", //TOKEN HERE
+    "password": "", //PASSWORD HERE
+    "prefix": "x", //CHANGE IF YOU WANT
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/sny4zzz",
+    "tts_language": "en"
+}
